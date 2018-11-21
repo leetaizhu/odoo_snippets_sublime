@@ -7,3 +7,13 @@ assertRaises(${1:exception})
     <scope>source.python</scope>
     <description>assertRaises</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+assertRaises(${1:exception})
+]]></content>
+    <tabTrigger>断言</tabTrigger>
+    <tabTrigger>assertRaises</tabTrigger>
+    <scope>source.python</scope>
+    <description>assertRaises</description>
+</snippet>

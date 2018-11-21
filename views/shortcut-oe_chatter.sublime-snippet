@@ -8,7 +8,8 @@
     <tabTrigger>oe_chatter</tabTrigger>
     <scope>text.xml</scope>
     <description>Common XML to add a tracking area inside a form view</description>
-</snippet
+</snippet>
+
 <snippet>
     <content><![CDATA[
 <div class="oe_chatter">

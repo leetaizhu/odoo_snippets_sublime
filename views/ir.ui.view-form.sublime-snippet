@@ -13,7 +13,7 @@
     <tabTrigger>form</tabTrigger>
     <scope>text.xml</scope>
     <description>Common form tag to be added inside a ir.ui.view</description>
-</snippet
+</snippet>
 
 <snippet>
     <content><![CDATA[

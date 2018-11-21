@@ -7,3 +7,13 @@ assertTrue(${1:expr}${3:, ${2:msg=None}})
     <scope>source.python</scope>
     <description>assertTrue</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+assertTrue(${1:expr}${3:, ${2:msg=None}})
+]]></content>
+    <tabTrigger>断言</tabTrigger>
+    <tabTrigger>assertTrue</tabTrigger>
+    <scope>source.python</scope>
+    <description>assertTrue</description>
+</snippet>

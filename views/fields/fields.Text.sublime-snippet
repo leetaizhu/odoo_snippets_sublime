@@ -7,7 +7,8 @@
     <tabTrigger>fields.Text</tabTrigger>
     <scope>text.xml</scope>
     <description>Common XML tag for field type Text</description>
-</snippet
+</snippet>
+
 <snippet>
     <content><![CDATA[
 <field name="${1:name}"><![CDATA[

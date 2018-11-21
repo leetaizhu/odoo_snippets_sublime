@@ -7,3 +7,13 @@ assertNotEqual(${1:first}, ${2:second}${4:, ${3:msg=None}})
     <scope>source.python</scope>
     <description>assertNotEqual</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+assertNotEqual(${1:first}, ${2:second}${4:, ${3:msg=None}})
+]]></content>
+    <tabTrigger>断言</tabTrigger>
+    <tabTrigger>assertNotEqual</tabTrigger>
+    <scope>source.python</scope>
+    <description>assertNotEqual</description>
+</snippet>

@@ -7,3 +7,13 @@ assertNotIsInstance(${1:obj}, ${2:cls}${4:, ${3:msg=None}})
     <scope>source.python</scope>
     <description>assertNotIsInstance</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+assertNotIsInstance(${1:obj}, ${2:cls}${4:, ${3:msg=None}})
+]]></content>
+    <tabTrigger>断言</tabTrigger>
+    <tabTrigger>assertNotIsInstance</tabTrigger>
+    <scope>source.python</scope>
+    <description>assertNotIsInstance</description>
+</snippet>

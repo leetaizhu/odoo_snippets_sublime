@@ -7,3 +7,13 @@ assertNotAlmostEqual(${1:first}, ${2:second}${4:, ${3:places=7}}${6:, ${5:msg=No
     <scope>source.python</scope>
     <description>assertNotAlmostEqual</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+assertNotAlmostEqual(${1:first}, ${2:second}${4:, ${3:places=7}}${6:, ${5:msg=None}}${9:, ${8:delta=None}})
+]]></content>
+    <tabTrigger>断言</tabTrigger>
+    <tabTrigger>assertNotAlmostEqual</tabTrigger>
+    <scope>source.python</scope>
+    <description>assertNotAlmostEqual</description>
+</snippet>
