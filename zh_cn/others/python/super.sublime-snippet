@@ -1,11 +1,3 @@
-<snippet>
-    <content><![CDATA[
-super(${1:Extension}, self).${2:handler}(${3})
-]]></content>
-    <tabTrigger>super</tabTrigger>
-    <scope>source.python</scope>
-    <description>Call Python parent class</description>
-</snippet>
 
 <snippet>
     <content><![CDATA[

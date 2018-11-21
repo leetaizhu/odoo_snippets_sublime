@@ -8,5 +8,5 @@ def view_init(self, fields_list):
 ]]></content>
     <tabTrigger>def</tabTrigger>
     <scope>source.python</scope>
-    <description>view_init method signature</description>
+    <description>视图初始化 method signature</description>
 </snippet>
