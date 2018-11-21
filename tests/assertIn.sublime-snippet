@@ -7,13 +7,3 @@ assertIn(${1:first}, ${2:second}${4:, ${3:msg=None}})
     <scope>source.python</scope>
     <description>assertIn</description>
 </snippet>
-
-<snippet>
-    <content><![CDATA[
-assertIn(${1:first}, ${2:second}${4:, ${3:msg=None}})
-]]></content>
-    <tabTrigger>断言</tabTrigger>
-    <tabTrigger>assertIn</tabTrigger>
-    <scope>source.python</scope>
-    <description>assertIn</description>
-</snippet>

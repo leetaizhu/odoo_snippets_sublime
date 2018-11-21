@@ -7,13 +7,3 @@ assertDictEqual(${1:expected}, ${2:actual}${4:, ${3:msg=None}})
     <scope>source.python</scope>
     <description>assertDictEqual</description>
 </snippet>
-
-<snippet>
-    <content><![CDATA[
-assertDictEqual(${1:expected}, ${2:actual}${4:, ${3:msg=None}})
-]]></content>
-    <tabTrigger>断言</tabTrigger>
-    <tabTrigger>assertDictEqual</tabTrigger>
-    <scope>source.python</scope>
-    <description>assertDictEqual</description>
-</snippet>

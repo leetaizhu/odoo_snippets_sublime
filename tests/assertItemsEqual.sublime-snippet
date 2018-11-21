@@ -7,13 +7,3 @@ assertItemsEqual(${1:actual}, ${2:expected}${4:, ${3:msg=None}})
     <scope>source.python</scope>
     <description>assertItemsEqual</description>
 </snippet>
-
-<snippet>
-    <content><![CDATA[
-assertItemsEqual(${1:actual}, ${2:expected}${4:, ${3:msg=None}})
-]]></content>
-    <tabTrigger>断言</tabTrigger>
-    <tabTrigger>assertItemsEqual</tabTrigger>
-    <scope>source.python</scope>
-    <description>assertItemsEqual</description>
-</snippet>

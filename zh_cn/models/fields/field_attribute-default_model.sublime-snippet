@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+default_model='${1:model.name}'${0}
+]]></content>
+    <tabTrigger>default_model</tabTrigger>
+    <scope>source.python</scope>
+    <description>default_model attribute</description>
+</snippet>
+
+<snippet>
+    <content><![CDATA[
+default_model='${1:model.name}'${0}
+]]></content>
+    <tabTrigger>默认模型</tabTrigger>
+    <scope>source.python</scope>
+    <description>default_model attribute</description>
+</snippet>
+

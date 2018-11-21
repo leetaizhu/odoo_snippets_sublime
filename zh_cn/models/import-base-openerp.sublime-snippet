@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+from odoo import models, fields, api, _${0}
+]]></content>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.python</scope>
+    <description>Common Python library import lines</description>
+</snippet>
+
+<snippet>
+    <content><![CDATA[
+from odoo import models, fields, api, _${0}
+]]></content>
+    <tabTrigger>导入</tabTrigger>
+    <scope>source.python</scope>
+    <description>Common Python library import lines</description>
+</snippet>

@@ -7,13 +7,3 @@ assertDictContainsSubset(${1:expected}, ${2:actual}${4:, ${3:msg=None}})
     <scope>source.python</scope>
     <description>assertDictContainsSubset</description>
 </snippet>
-
-<snippet>
-    <content><![CDATA[
-assertDictContainsSubset(${1:expected}, ${2:actual}${4:, ${3:msg=None}})
-]]></content>
-    <tabTrigger>断言</tabTrigger>
-    <tabTrigger>assertDictContainsSubset</tabTrigger>
-    <scope>source.python</scope>
-    <description>assertDictContainsSubset</description>
-</snippet>

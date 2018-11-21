@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+assertRaisesRegexp(${1:exception}, ${2:regexp})
+]]></content>
+    <tabTrigger>assert</tabTrigger>
+    <tabTrigger>assertRaisesRegexp</tabTrigger>
+    <scope>source.python</scope>
+    <description>assertRaisesRegexp</description>
+</snippet>
+
+<snippet>
+    <content><![CDATA[
+assertRaisesRegexp(${1:exception}, ${2:regexp})
+]]></content>
+    <tabTrigger>断言</tabTrigger>
+    <tabTrigger>assertRaisesRegexp</tabTrigger>
+    <scope>source.python</scope>
+    <description>assertRaisesRegexp</description>
+</snippet>

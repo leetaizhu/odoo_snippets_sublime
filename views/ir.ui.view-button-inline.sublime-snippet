@@ -6,13 +6,3 @@
     <scope>text.xml</scope>
         <description>Online button tag definition</description>
 </snippet>
-
-<snippet>
-    <content><![CDATA[
-<button name="${1:function_name}" string="${2:string}" ${4:type="${3:object}"} ${5:special="cancel"} />
-]]></content>
-    <tabTrigger>按钮</tabTrigger>
-    <scope>text.xml</scope>
-        <description>Online button tag definition</description>
-</snippet>
-
