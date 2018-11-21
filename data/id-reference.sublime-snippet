@@ -6,3 +6,4 @@ ref('${1:record.external.id}')${0}
     <scope>text.xml</scope>
     <description>Database ID from external ID conversion</description>
 </snippet>
+

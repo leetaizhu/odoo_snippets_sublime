@@ -6,3 +6,12 @@ super(${1:Extension}, self).${2:handler}(${3})
     <scope>source.python</scope>
     <description>Call Python parent class</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+super(${1:Extension}, self).${2:handler}(${3})
+]]></content>
+    <tabTrigger>父类</tabTrigger>
+    <scope>source.python</scope>
+    <description>Call Python parent class</description>
+</snippet>

@@ -13,3 +13,19 @@ def _onchange_${1}(self):
     <scope>source.python</scope>
     <description>_onchange method signature, warning</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+@api.onchange('${1:field}')
+def _onchange_${1}(self):
+    return {
+        'warning': {
+            'title': '${2:Text of the title}',
+            'message': '${3:Text of the message}'
+        }
+    }${0}
+]]></content>
+    <tabTrigger>变化</tabTrigger>
+    <scope>source.python</scope>
+    <description>_onchange method signature, warning</description>
+</snippet>

@@ -8,3 +8,14 @@ def _search_${1: field}(self, operator, value):
     <scope>source.python</scope>
     <description>_search method signature</description>
 </snippet>
+
+<snippet>
+	<content><![CDATA[
+@api.model
+def _search_${1: field}(self, operator, value):
+    return [('${2:related}', operator, value)]${0}
+]]></content>
+    <tabTrigger>查询</tabTrigger>
+    <scope>source.python</scope>
+    <description>_search method signature</description>
+</snippet>

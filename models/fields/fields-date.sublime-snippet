@@ -13,3 +13,20 @@ ${1:field_name} = fields.Date(
     <scope>source.python</scope>
     <description>Common definition for field type Date</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+${1:field_name} = fields.Date(
+    string='${2:${1/((^.)|(_(.)))/(?2:\u$2)(?3:\ $4)/g}}',
+    required=${3:False},
+    readonly=${4:False},
+    index=${5:False},
+    default=${6:fields.Date.context_today()},
+    help=${7:False}
+)${0}
+]]></content>
+    <tabTrigger>日期</tabTrigger>
+    <scope>source.python</scope>
+    <description>Common definition for field type Date</description>
+</snippet>
+

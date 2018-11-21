@@ -8,3 +8,14 @@
     <scope>text.xml</scope>
     <description>Common search tag to be added inside a ir.ui.view</description>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+<search string="${1:Name}">
+    ${0}
+</search>
+]]></content>
+    <tabTrigger>查询</tabTrigger>
+    <scope>text.xml</scope>
+    <description>Common search tag to be added inside a ir.ui.view</description>
+</snippet>

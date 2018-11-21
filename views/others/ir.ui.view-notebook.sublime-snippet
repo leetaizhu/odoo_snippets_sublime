@@ -7,3 +7,13 @@
     <tabTrigger>notebook</tabTrigger>
     <scope>text.xml</scope>
 </snippet>
+
+<snippet>
+    <content><![CDATA[
+<notebook>
+    ${0}
+</notebook>
+]]></content>
+    <tabTrigger>标签</tabTrigger>
+    <scope>text.xml</scope>
+</snippet>
